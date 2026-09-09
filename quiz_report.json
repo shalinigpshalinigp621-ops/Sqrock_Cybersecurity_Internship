@@ -1,0 +1,83 @@
+{
+    "quiz": "Social Engineering Awareness Training",
+    "date": "2026-09-07 00:41:16",
+    "total_questions": 12,
+    "correct_answers": 11,
+    "wrong_answers": 1,
+    "percentage": 91.67,
+    "awareness_level": "Excellent",
+    "results": [
+        {
+            "question_number": 1,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 2,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 3,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 4,
+            "answer": "A",
+            "correct_answer": "B",
+            "result": "Wrong"
+        },
+        {
+            "question_number": 5,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 6,
+            "answer": "A",
+            "correct_answer": "A",
+            "result": "Correct"
+        },
+        {
+            "question_number": 7,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 8,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 9,
+            "answer": "A",
+            "correct_answer": "A",
+            "result": "Correct"
+        },
+        {
+            "question_number": 10,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 11,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        },
+        {
+            "question_number": 12,
+            "answer": "B",
+            "correct_answer": "B",
+            "result": "Correct"
+        }
+    ]
+}

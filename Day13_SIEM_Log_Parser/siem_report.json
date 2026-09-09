@@ -1,0 +1,21 @@
+{
+    "project": "Day 13 - SIEM Log Parser",
+    "total_log_entries": 20,
+    "parsed_entries": 20,
+    "successful_logins": 9,
+    "failed_logins": 11,
+    "failed_login_threshold": 3,
+    "failed_logins_by_ip": {
+        "10.0.0.50": 6,
+        "172.16.0.20": 5
+    },
+    "failed_logins_by_user": {
+        "admin": 6,
+        "user1": 3,
+        "test": 2
+    },
+    "suspicious_ips": {
+        "10.0.0.50": 6,
+        "172.16.0.20": 5
+    }
+}

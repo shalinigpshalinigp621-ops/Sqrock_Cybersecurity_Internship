@@ -1,0 +1,6 @@
+timestamp: 2026-09-07 00:19:03.638135
+hostname: DESKTOP-V4F0L7E
+os: Windows
+version: 10.0.26200
+user: SHALINI G P
+cwd: C:\Users\SHALINI G P\OneDrive\Desktop\Sqrock_Cybersecurity_Internship

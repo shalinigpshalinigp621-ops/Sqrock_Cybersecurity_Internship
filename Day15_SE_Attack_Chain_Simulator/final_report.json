@@ -1,0 +1,13 @@
+{
+    "project": "SE Attack Chain Simulator",
+    "mode": "Authorized Lab Simulation",
+    "modules": [
+        "OSINT Scan",
+        "Profile Analysis",
+        "Phishing URL Detection",
+        "Awareness Email Template",
+        "Incident Response"
+    ],
+    "status": "Completed",
+    "timestamp": "2026-09-07 23:10:09.376454"
+}

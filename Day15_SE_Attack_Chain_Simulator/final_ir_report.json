@@ -1,0 +1,18 @@
+{
+    "incident": {
+        "type": "phishing",
+        "severity": "HIGH",
+        "user": "riya@lab.local"
+    },
+    "actions": [
+        "LOCK user account",
+        "Revoke active sessions",
+        "Notify SOC team",
+        "Preserve mail logs",
+        "Quarantine email",
+        "Block sender domain",
+        "Scan attachments in sandbox"
+    ],
+    "timestamp": "2026-09-07 23:08:12.217644",
+    "status": "Simulation completed"
+}
